@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Fio_Portal.Web.MvcApplication" Language="C#" %>
